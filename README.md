@@ -30,6 +30,3 @@ For questions or collaborations, please reach out to: ruilinwang@mail.sdu.edu.cn
 We gratefully acknowledge the following open-source projects used for metric computation: [VIEScore](https://github.com/TIGER-AI-Lab/VIEScore) and [DocAligner-Distortion](https://github.com/ZZZHANG-jx/DocAligner-Distortion).
 
 Copyright 2025–2026, [Deep Learning and Vision Computing (DLVC) Lab](http://www.dlvc-lab.net), South China University of Technology.
-
-
-[![Star History](https://api.star-history.com/svg?repos=NiceRingNode/Awesome-Generative-Models-for-OCR&type=Timeline)](https://star-history.com/#NiceRingNode/Awesome-Generative-Models-for-OCR&Timeline)
