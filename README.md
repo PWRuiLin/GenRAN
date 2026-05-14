@@ -8,10 +8,6 @@ Please download the. zip compressed file, and the model weights will be uploaded
 
 
 
----
-
-> *View the full interactive leaderboard: [**OCRGenBench Leaderboard**](https://niceringnode.github.io/Awesome-Generative-Models-for-OCR/leaderboard/)*
-
 ## <div align="center" id="citation">📋 Citation</div> <!-- omit in toc -->
 
 If you find our work helpful, please consider citing our paper:
