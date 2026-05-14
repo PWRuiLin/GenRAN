@@ -31,6 +31,5 @@ We gratefully acknowledge the following open-source projects used for metric com
 
 Copyright 2025–2026, [Deep Learning and Vision Computing (DLVC) Lab](http://www.dlvc-lab.net), South China University of Technology.
 
-## <div align="center" id="star-history">⭐ Star History</div> <!-- omit in toc -->
 
 [![Star History](https://api.star-history.com/svg?repos=NiceRingNode/Awesome-Generative-Models-for-OCR&type=Timeline)](https://star-history.com/#NiceRingNode/Awesome-Generative-Models-for-OCR&Timeline)
