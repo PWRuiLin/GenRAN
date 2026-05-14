@@ -23,7 +23,7 @@ If you find our work helpful, please consider citing our paper:
 
 ## <div align="center" id="contact">📧 Contact</div> <!-- omit in toc -->
 
-For questions or collaborations, please reach out to: eeprzhang@mail.scut.edu.cn
+For questions or collaborations, please reach out to: ruilinwang@mail.sdu.edu.cn
 
 ## <div align="center" id="acknowledgement">🌊 Acknowledgement</div> <!-- omit in toc -->
 
