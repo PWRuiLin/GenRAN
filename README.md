@@ -13,11 +13,14 @@ Please download the. zip compressed file, and the model weights will be uploaded
 If you find our work helpful, please consider citing our paper:
 
 ```bibtex
-@article{zhang2025ocrgenbench,
-  title={{OCRGenBench: A Comprehensive Benchmark for Evaluating OCR Generative Capabilities}},
-  author={Zhang, Peirong and Xu, Haowei and Zhang, Jiaxin and Zheng, Xuhan and Xu, Guitao and Zhang, Yuyi and Liu, Junle and Yang, Zhenhua and Zhou, Wei and Jin, Lianwen},
-  journal={arXiv preprint arXiv:2507.15085},
-  year={2025}
+@article{WANG2025103120,
+  title={{GenRAN: GenFusion-guided Reversible Anonymization Network for face privacy preserving}},
+  author={Ruilin Wang and Lingchen Gu and Jing Li and Jun Wang and Jiande Sun and Wenbo Wan},
+  journal={Information Fusion},
+  volume = {121},
+  pages = {103120},
+  year = {2025},
+  doi = {https://doi.org/10.1016/j.inffus.2025.103120}
 }
 ```
 
