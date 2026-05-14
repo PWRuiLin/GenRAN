@@ -24,9 +24,3 @@ If you find our work helpful, please consider citing our paper:
 ## <div align="center" id="contact">📧 Contact</div> <!-- omit in toc -->
 
 For questions or collaborations, please reach out to: ruilinwang@mail.sdu.edu.cn
-
-## <div align="center" id="acknowledgement">🌊 Acknowledgement</div> <!-- omit in toc -->
-
-We gratefully acknowledge the following open-source projects used for metric computation: [VIEScore](https://github.com/TIGER-AI-Lab/VIEScore) and [DocAligner-Distortion](https://github.com/ZZZHANG-jx/DocAligner-Distortion).
-
-Copyright 2025–2026, [Deep Learning and Vision Computing (DLVC) Lab](http://www.dlvc-lab.net), South China University of Technology.
